@@ -1,1 +1,1 @@
-#Uniswap v3 LP Rebalancing
+Uniswap v3 LP Rebalancing
